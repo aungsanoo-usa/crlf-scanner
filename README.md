@@ -84,6 +84,3 @@ http://example.com/%0d%0aSet-Cookie:loxs=injected
 
 Contributions are welcome! Feel free to submit issues or pull requests to improve the functionality.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
